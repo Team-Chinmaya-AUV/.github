@@ -1,3 +1,6 @@
+<div align="center">
+
+<img src="./assets/banner.webp" alt="Chinmaya AUV — Beyond Depth. Beyond Limits." width="100%" />
 
 **Explore • Discover • Protect**
 
@@ -43,20 +46,3 @@ More than **80% of the deep ocean is still unexplored and unmapped**. It holds a
 | Pushing beyond known boundaries to discover what lies beneath. | Combining robotics, AI and engineering to solve real-world challenges. | Building robust systems that perform in the most demanding environments. |
 
 ---
-
-## 🌊 Built for the Ocean
-
-- **🏗️ Inspection Missions:** structural inspection of bridges, dams, pipelines and offshore assets
-- **🔬 Research Applications:** oceanography, habitat mapping and environmental monitoring
-- **🎓 Academic Development:** a modular platform for innovation, learning and experimentation
-- **📡 Autonomous Navigation:** advanced sensors and control algorithms for autonomous operation
-
----
-
-<div align="center">
-
-**Oceanic AI Centre · Chinmaya Vishwa Vidyapeeth**
-
-*Exploring Earth's last frontier.* 🌊
-
-</div>
